@@ -84,6 +84,7 @@ button {
     height: 25px;
     width: 85px;
     color: white;
+    margin-top: 16px;
 }
 button:hover {
     background-color: white;
