@@ -11,7 +11,7 @@ a {
     text-decoration-color: lightgray;
 }
 a:hover {
-    color: royalblue;
+    color: rgb(56, 116, 81);
 }
 .dede {
     width: 1140px;
