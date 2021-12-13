@@ -68,6 +68,7 @@ p {
     display: table;
     clear: both;
 }
+
 header {
     background-color: #cf142b;
     height: 90px;
@@ -77,13 +78,27 @@ header {
     text-align: center
 
 }
+.top-nav {
 
+    align-items: right;
+    text-align: right;
+    margin-right:10px;
+    box-sizing: content-box;
+}
+@media (max-width:480px;) {
+
+
+}
 button {
-    background-color: #00247d;
+    
+    background-color: #cf142b;
     border: 0ch;
     height: 25px;
-    width: 85px;
+    width: 75px;
     color: white;
+    
+    
+
 }
 button:hover {
     background-color: white;
